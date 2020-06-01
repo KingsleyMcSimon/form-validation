@@ -10,7 +10,7 @@ This project shows the fundamentals of a progressive web application which can b
 HTML5, CSS3 and JavaScript
 
 # Live Demo Link
-[Fundamental PWA](https://fundamental-pwa.firebaseapp.com)
+[]()
 
 # Getting Started
 To get started with this project, a basic understanding of HTML5, CSS3 and JavaScript is needed but it's not supposed to be hindrance to understanding the project.
