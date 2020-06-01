@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Roboto&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    background: cornflowerblue;
+}
+
+.wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 350px;
+    width: 100%;
+    background: cornsilk;
+    padding: 25px;
+    border-radius: 5px;
+    box-sizing: 4px 4px 2px rgba(254,236,164,1);
+
+}
+
+.wrapper h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: gray;
+}
+
+.wrapper .input_field {
+    margin-bottom: 10px;
+}
+
+.wrapper .input_field input[type="text"],
+.wrapper textarea {
+    width: 300px;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.wrapper textarea {
+    height: 80px;
+    resize: none;
+}
+
+.wrapper .btn input[type="submit"]{
+    border: 0;
+    margin-top: 15px;
+    padding: 10px;
+    width: 100%;
+    background: cornflowerblue;
+    color: #332902;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.wrapper #error_message {
+    margin-bottom: 20px;
+    padding: 0px;
+    background: darkred;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+
+}
