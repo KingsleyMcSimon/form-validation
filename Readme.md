@@ -13,7 +13,7 @@ HTML5, CSS3 and JavaScript
 [Form Validation](https://kingsleymcsimon.github.io/form-validation/)
 
 # Getting Started
-To get started with this project, a basic understanding of HTML5, CSS3 and JavaScript is needed but it's not supposed to be hindrance to understanding the project.
+To get started with this project, a basic understanding of HTML5, CSS3 and JavaScript is needed but it's not supposed to be a hindrance to understanding the project.
 
 # To get a local copy up and running follow these simple example steps.
 
